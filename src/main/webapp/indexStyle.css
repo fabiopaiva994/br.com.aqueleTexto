@@ -1,0 +1,11 @@
+.quadro1 {
+    position: relative;
+    float: left;
+    width: 20%;
+}
+
+.quadro1 h1{
+    color: red;
+    text-align: center;
+    
+}
